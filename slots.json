@@ -1,0 +1,26 @@
+{
+    "slot":[
+        {
+            "slotId":"1",
+            "time":"2100",
+            "date":"1/21/2018",
+            "slotsAvailable":25,
+            "slots":[
+                {"memberId":"123456","slotId":1},
+                {"memberId":"123457","slotId":2},
+                {"memberId":"123458","slotId":3}
+            ]
+        },
+        {
+            "slotId":"2",
+            "time":"2120",
+            "date":"1/21/2018",
+            "slotsAvailable":25,
+            "slots":[
+                {"memberId":"123456","slotId":1},
+                {"memberId":"123457","slotId":2},
+                {"memberId":"123458","slotId":3}
+            ]
+        }
+    }
+}
